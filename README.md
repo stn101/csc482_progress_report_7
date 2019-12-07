@@ -5,7 +5,7 @@
 	- Demonstration will include virtual machine (VM) annotation to verify working aspects on the NextCloud app within different OS platform. We will attempt to get a full backup of configured servers a long with a descriptive write up for the client as requested.
 
 3. Give a link to the journal file in your repository
-	- 
+	- https://github.com/stn101/csc482_progress_report_7/tree/master
 
 Servers:
 ******************* main DNS server *******************
