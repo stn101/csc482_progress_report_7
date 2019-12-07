@@ -6,10 +6,16 @@
 
 3. Give a link to the journal file in your repository
 	- https://github.com/stn101/csc482_progress_report_7/tree/master
+	
+	
+	
 
 Servers:
 ******************* main DNS server *******************
+
 https://www.stmartinlrmp.com
+
+
 
 ******************* configured cloud server *******************
 http://nextcloud.stmartinlrmp.com/index.php/login
